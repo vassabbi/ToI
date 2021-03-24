@@ -1,0 +1,6 @@
+﻿  Lab1.cpp
+C:\Users\vassabbi\OneDrive\Документы\ТИ\Lab1\Lab1.cpp(97,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vassabbi\OneDrive\Документы\ТИ\Lab1\Lab1.cpp(123,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vassabbi\OneDrive\Документы\ТИ\Lab1\Lab1.cpp(148,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vassabbi\OneDrive\Документы\ТИ\Lab1\Lab1.cpp(186,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vassabbi\OneDrive\Документы\ТИ\Lab1\Lab1.cpp : fatal error C1083: Не удается открыть файл созданный компилятором: C:\Users\vassabbi\OneDrive\Документы\ТИ\Lab1\Debug\Lab1.nativecodeanalysis.xml: No error,
