@@ -382,6 +382,4 @@ int main()
 			break;
 		}
 	}
-	string s;
-	getline(cin, s);
 }
