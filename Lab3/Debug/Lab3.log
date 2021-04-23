@@ -1,0 +1,12 @@
+﻿  Lab3.cpp
+C:\Users\vassabbi\OneDrive\Документы\GitHub\ToI\Lab3\Lab3.cpp(84,42): warning C4244: аргумент: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+C:\Users\vassabbi\OneDrive\Документы\GitHub\ToI\Lab3\Lab3.cpp(97,42): warning C4244: аргумент: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+  Lab3.vcxproj -> C:\Users\vassabbi\OneDrive\Документы\GitHub\ToI\Lab3\Debug\Lab3.exe
